@@ -2,8 +2,8 @@
 import React from 'react';
 
 const features = [
-  { title: "Unlimited access to Raw materials & Rations", description: "Coming soon..." },
-  { title: "Be the best local shop of your area", description: "Coming soon..." },
+  { title: "Unlimited access to Raw materials & Staples", description: "Coming soon..." },
+  { title: "Be the smartest shop of your area", description: "Coming soon..." },
   { title: "Hassle free delivery", description: "Coming soon..." },
   { title: "Get the best quality delivered", description: "Coming soon..." },
 ];
